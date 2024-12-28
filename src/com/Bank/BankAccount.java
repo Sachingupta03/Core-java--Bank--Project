@@ -1,7 +1,7 @@
 package com.Bank;
 
 public class BankAccount {
-    public static class BannkAccunt {
+    public static class BannkAccount {
         private String accountNumber;
         private String accountHolderName;
         private double balance;
